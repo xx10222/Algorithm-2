@@ -2,6 +2,8 @@
 깃허브 관리를 못해서 다시 만든 알고리즘 저장소😅  
 2023.02.25
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xx10222)](https://solved.ac/xx10222/)
+
 ### 참고 사이트
 https://ldgeao99.tistory.com/184   
 여기서 순서대로 문제 해결 중!   
